@@ -49,6 +49,6 @@ Website institucional desenvolvido para empresa de transporte.
 
 ## 📫 Contato
 
-LinkedIn
+Linkedin: https://www.linkedin.com/in/warley-phelipe/
 
-Email
+Email: warleyphelipe07@gmail.com
