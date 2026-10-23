@@ -39,11 +39,7 @@ Website institucional desenvolvido para empresa de transporte.
 
 ## 📚 Atualmente estudando
 
-- Arquitetura Front-end
-- Node.js
-- PostgreSQL
-- Prisma
-- Testes
+Análise e Desenvolvimento de Sistemas
 
 ---
 
